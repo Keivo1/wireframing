@@ -46,3 +46,39 @@ Functionality includes interactive elements and features that define how users i
 **Example:** A wireframe for a login page may include fields for username and password, a "Log In" button, and a "Forgot Password?" link to indicate intended functionality.
 
 Each of these elements plays a role in creating a wireframe that is both intuitive and aligned with user needs. Together, they lay the foundation for a functional and user-centered design.
+
+## Types of Wireframes
+
+Wireframes can vary in complexity and detail depending on the stage of the design process. They are generally categorized into two types: low-fidelity and high-fidelity.
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple, rough sketches that outline the basic structure and layout of a page or screen. They typically use simple shapes, placeholders, and limited text, without any styling or detailed interaction.
+
+**Purpose:**
+- Used in early stages of design
+- Helps to quickly explore ideas and layouts
+- Encourages feedback and iteration without focusing on visuals
+
+**Example:** A hand-drawn sketch or a grayscale layout created using basic shapes in Figma or paper.
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed and closely resemble the final product. They include specific fonts, spacing, button states, images, and sometimes interactive elements.
+
+**Purpose:**
+- Used in later design stages
+- Useful for developer handoff or user testing
+- Shows exactly how the product will look and function
+
+**Example:** A pixel-perfect wireframe created in Figma with defined UI components, layout spacing, and sample content.
+
+## Wireframe Type Used in This Project
+
+For this project, a **high-fidelity wireframe** was used.
+
+### Explanation
+
+The wireframe created for this project is a high-fidelity design that closely resembles the final version of the product. It includes visual details such as typography, spacing, component styles, and realistic content to simulate a functional interface.
+The wireframe is part of an Airbnb clone project, designed to replicate the layout and user flow of the original Airbnb platform. It captures elements like the homepage, search filters, property listings, and booking interactions. This level of detail makes it suitable for later stages of the design process, such as user testing, stakeholder review, and developer handoff.
+By using a high-fidelity wireframe, this project aims to provide a clear and accurate visual guide that supports smooth transition into the prototyping and development phases.
