@@ -116,7 +116,7 @@ Wireframes provide a clear blueprint of the interface before any code is written
 ### 2. Facilitates Communication and Collaboration
 
 Wireframes serve as a communication tool between designers, developers, and stakeholders. They make abstract ideas concrete, helping team members discuss functionality, navigation, and page flow more effectively.
-**Example:** Using Figma, multiple team members can view and comment on the wireframe in real time. This speeds up feedback loops and ensures that everyone—regardless of their technical background—has a clear understanding of the design goals and requirements.
+**Example:** Using Figma, multiple team members can view and comment on the wireframe in real time. This speeds up feedback loops and ensures that everyone regardless of their technical background has a clear understanding of the design goals and requirements.
 
 ### 3. Reduces Development Risks
 
@@ -126,15 +126,14 @@ By validating design decisions early, wireframes help avoid costly rework during
 ### 4. Improves Project Planning
 
 Wireframes help project managers and product teams estimate the scope of work more accurately. With a clear visual plan, teams can break down tasks, prioritize features, and allocate resources more effectively.
-In summary, wireframing is not just a design activity—it’s a strategic part of the software development process that improves clarity, speeds up collaboration, and enhances the quality of the final product.
+In summary, wireframing is not just a design activity, it’s a strategic part of the software development process that improves clarity, speeds up collaboration, and enhances the quality of the final product.
 
 ## Real-World Scenario: Wireframing to Identify and Resolve Usability Issues
 
 ### Scenario: Redesigning a Property Booking Flow
 
 In a previous project involving the design of a property rental platform similar to Airbnb, wireframing played a critical role in identifying and addressing usability issues before development began.
-
-During the initial wireframing phase, a high-fidelity wireframe was created to visualize the booking flow—from selecting a property to completing a reservation. Stakeholders and users reviewed the wireframe and provided feedback.
+During the initial wireframing phase, a high-fidelity wireframe was created to visualize the booking flow from selecting a property to completing a reservation. Stakeholders and users reviewed the wireframe and provided feedback.
 
 ### Identified Issues:
 
@@ -159,3 +158,4 @@ These changes were made directly in the wireframe using Figma before any code wa
 
 This scenario illustrates how wireframing serves as an early validation tool for user experience design. It allows teams to catch usability issues early, refine the product flow, and collaborate efficiently. By visualizing the interface before development, wireframing ensures that the final product is intuitive, functional, and aligned with user expectations.
 Wireframing is not just a visual planning tool—it’s a critical step that contributes directly to building user-friendly, high-quality digital products.
+
