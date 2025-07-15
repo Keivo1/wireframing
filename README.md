@@ -82,3 +82,31 @@ For this project, a **high-fidelity wireframe** was used.
 The wireframe created for this project is a high-fidelity design that closely resembles the final version of the product. It includes visual details such as typography, spacing, component styles, and realistic content to simulate a functional interface.
 The wireframe is part of an Airbnb clone project, designed to replicate the layout and user flow of the original Airbnb platform. It captures elements like the homepage, search filters, property listings, and booking interactions. This level of detail makes it suitable for later stages of the design process, such as user testing, stakeholder review, and developer handoff.
 By using a high-fidelity wireframe, this project aims to provide a clear and accurate visual guide that supports smooth transition into the prototyping and development phases.
+
+## Popular Wireframing Tools
+
+There are several tools available for creating wireframes, each offering different features based on user needs, collaboration style, and project complexity. Some of the most commonly used wireframing tools include:
+
+- **Figma**
+- **Adobe XD**
+- **Sketch**
+- **Balsamiq**
+- **Wireframe.cc**
+- **Axure RP**
+
+### Figma (Recommended Tool)
+
+**Figma** is a browser-based UI/UX design tool that supports real-time collaboration, making it ideal for teams working on digital products. It allows designers to create wireframes, mockups, prototypes, and design systems—all in one platform.
+
+#### Key Features:
+
+- Cloud-based and accessible from any device
+- Real-time collaboration and commenting for team feedback
+- Vector-based interface for precise layout control
+- Pre-built UI components and plugins to speed up workflow
+- Supports both low-fidelity and high-fidelity design stages
+- Version control and history tracking
+
+#### Why Figma is Useful for Wireframing:
+
+Figma is particularly useful for wireframing because it combines simplicity with powerful design capabilities. It allows users to start with basic wireframe shapes and gradually evolve their designs into fully interactive, high-fidelity prototypes. Its collaborative features make it easy to involve stakeholders, gather feedback, and iterate quickly—an essential part of an effective design process.
